@@ -1,39 +1,28 @@
-# Shirlyn Mesa — Personal Portfolio Website
+# Personal Portfolio Website
 
-This folder contains the files for the personal portfolio website.
+## Overview
 
-## Files
+This project is my personal portfolio website, created to introduce myself, showcase my skills and projects, and provide information about my background and interests.
 
-- `index.html` — Website content and page structure.
-- `style.css` — Website styling, layout, colors, and responsive design.
-- `script.js` — JavaScript for interactive website features.
-- `images/` — Optional folder for website images.
+## Project Files
 
-## Organizing your files
+- `index.html` — Contains the structure and content of the website.
+- `style.css` — Controls the website's design, layout, colors, and responsiveness.
+- `script.js` — Adds interactive features and functionality to the website.
 
-Keep `index.html`, `style.css`, and `script.js` in the same folder. If you add images, place them in an `images` folder and use the correct relative file path in `index.html`.
+## How to Run the Website
 
-Example folder structure:
+1. Download or extract the project files.
+2. Make sure `index.html`, `style.css`, and `script.js` are in the same folder.
+3. Open `index.html` in your preferred web browser.
+4. Explore the website and its available sections.
 
-```text
-shirlyn_portfolio/
-├── index.html
-├── style.css
-├── script.js
-├── README.md
-└── images/
-    └── your-image.jpg
-```
+## Customization
 
-## Opening the website
+You can edit the HTML file to update the website's content, modify the CSS file to change its appearance, and update the JavaScript file to adjust its interactive features.
 
-1. Make sure `index.html`, `style.css`, and `script.js` are in the same folder.
-2. Double-click `index.html` to open the website in your browser.
-3. After editing a file, save your changes and refresh the browser.
+## Technologies Used
 
-## Important notes
-
-- Do not move `style.css` or `script.js` away from `index.html` unless you also update their paths in the HTML file.
-- This is a static website, so you can preview it by opening `index.html` directly in a browser.
-
-Enjoy customizing your portfolio!
+- HTML
+- CSS
+- JavaScript
